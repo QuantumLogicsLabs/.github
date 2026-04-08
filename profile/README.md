@@ -14,14 +14,6 @@
 
 </div>
 
-### **Building Software at the Speed of Thought**
-
-[![Website](https://img.shields.io/badge/Website-quantumlogicslimited.com-blue?style=flat-square)](https://quantumlogicslimited.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-QuantumLogics-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/company/quantumlogicslimited)
-[![Email](https://img.shields.io/badge/Email-quantumlogicslimited%40gmail.com-red?style=flat-square&logo=gmail)](mailto:quantumlogicslimited@gmail.com)
-
-</div>
-
 ---
 
 ## 👋 Who We Are
