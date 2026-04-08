@@ -24,20 +24,32 @@
 
 ---
 
-## 🏆 GitHub Stats
+## 🏆 Repository Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=QuantumLogicsLabs&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_color=30363d&hide_border=false&rank_icon=github&card_width=495" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumLogicsLabs&layout=compact&theme=github_dark&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_color=30363d&hide_border=false&card_width=330&langs_count=6" height="180"/>
+<!-- Repo cards — work perfectly for orgs -->
+<a href="https://github.com/QuantumLogicsLabs/Quantum-Language">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumLogicsLabs&repo=Quantum-Language&theme=github_dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_color=30363d" height="150"/>
+</a>
+<a href="https://github.com/QuantumLogicsLabs/Quran-Website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumLogicsLabs&repo=Quran-Website&theme=github_dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_color=30363d" height="150"/>
+</a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumLogicsLabs&theme=github-dark-blue&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=8b949e&border=30363d" height="165"/>
+<a href="https://github.com/QuantumLogicsLabs/QuantumFailedTests">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumLogicsLabs&repo=QuantumFailedTests&theme=github_dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_color=30363d" height="150"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=QuantumLogicsLabs&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=false&border_color=30363d&radius=6" width="100%"/>
+<!-- Live shields pulled from GitHub API — always work for orgs -->
+
+![GitHub Org Stars](https://img.shields.io/github/stars/QuantumLogicsLabs?style=for-the-badge&logo=github&label=Total%20Stars&color=00d4ff&labelColor=0d1117)
+![GitHub followers](https://img.shields.io/github/followers/QuantumLogicsLabs?style=for-the-badge&logo=github&label=Followers&color=ff6b35&labelColor=0d1117)
+![Quantum Language Version](https://img.shields.io/github/v/release/QuantumLogicsLabs/Quantum-Language?style=for-the-badge&logo=github&label=Latest%20Release&color=brightgreen&labelColor=0d1117)
+![Open Issues](https://img.shields.io/github/issues/QuantumLogicsLabs/Quantum-Language?style=for-the-badge&logo=github&label=Open%20Issues&color=yellow&labelColor=0d1117)
 
 </div>
 
@@ -53,14 +65,14 @@
 [![MIT License](https://img.shields.io/badge/MIT-purple?style=flat-square)](https://github.com/QuantumLogicsLabs/Quantum-Language/blob/main/LICENSE)
 [![.sa files](https://img.shields.io/badge/scripts-.sa-orange?style=flat-square)](https://github.com/QuantumLogicsLabs/Quantum-Language)
 
-| Feature | Details |
-|---|---|
-| 🔀 **Multi-syntax** | Python, JS, and C/C++ style — mix freely in the same file |
+| Feature                | Details                                                               |
+| ---------------------- | --------------------------------------------------------------------- |
+| 🔀 **Multi-syntax**    | Python, JS, and C/C++ style — mix freely in the same file             |
 | 🔒 **Crypto built-in** | SHA256, AES-128, HMAC, base64, XOR, entropy analysis, network helpers |
-| ⚡ **Bytecode VM** | Compiles to compact bytecode, runs on a custom register-stack VM |
-| 📦 **Self-contained** | `quantum file.sa` → standalone `.exe`, zero runtime deps |
-| 🔁 **REPL** | `qrun` interactive mode with persistent VM state |
-| 🧪 **Test runner** | Crash-guarded batch test suite via `--test` flag |
+| ⚡ **Bytecode VM**     | Compiles to compact bytecode, runs on a custom register-stack VM      |
+| 📦 **Self-contained**  | `quantum file.sa` → standalone `.exe`, zero runtime deps              |
+| 🔁 **REPL**            | `qrun` interactive mode with persistent VM state                      |
+| 🧪 **Test runner**     | Crash-guarded batch test suite via `--test` flag                      |
 
 ```bash
 quantum hello.sa   # compile → .exe → launch
@@ -130,12 +142,12 @@ We welcome contributions across all repositories — bug fixes, features, tests,
 
 ## 📬 Get In Touch
 
-| | |
-|---|---|
-| 🌐 Website | [quantumlogicslimited.com](https://quantumlogicslimited.com) |
-| 💼 LinkedIn | [company/quantumlogicslimited](https://linkedin.com/company/quantumlogicslimited) |
-| 📧 Email | [quantumlogicslimited@gmail.com](mailto:quantumlogicslimited@gmail.com) |
-| 📖 Quantum Docs | [quantum.quantumlogicslimited.com](https://quantum.quantumlogicslimited.com) |
+|                 |                                                                                   |
+| --------------- | --------------------------------------------------------------------------------- |
+| 🌐 Website      | [quantumlogicslimited.com](https://quantumlogicslimited.com)                      |
+| 💼 LinkedIn     | [company/quantumlogicslimited](https://linkedin.com/company/quantumlogicslimited) |
+| 📧 Email        | [quantumlogicslimited@gmail.com](mailto:quantumlogicslimited@gmail.com)           |
+| 📖 Quantum Docs | [quantum.quantumlogicslimited.com](https://quantum.quantumlogicslimited.com)      |
 
 ---
 
