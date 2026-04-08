@@ -14,71 +14,55 @@
 
 </div>
 
----
+### **Building Software at the Speed of Thought**
 
-## ⚡ About QuantumLogics
-
-> **Software house** dedicated to high-quality solutions and open-source excellence.
-> We build at the intersection of **precision**, **performance**, and **creativity** —
-> from production apps to programming languages built from scratch.
-
----
-
-## 🏆 Repository Stats
-
-<div align="center">
-
-<!-- Repo cards — work perfectly for orgs -->
-<a href="https://github.com/QuantumLogicsLabs/Quantum-Language">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumLogicsLabs&repo=Quantum-Language&theme=github_dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_color=30363d" height="150"/>
-</a>
-<a href="https://github.com/QuantumLogicsLabs/Quran-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumLogicsLabs&repo=Quran-Website&theme=github_dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_color=30363d" height="150"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/QuantumLogicsLabs/QuantumFailedTests">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumLogicsLabs&repo=QuantumFailedTests&theme=github_dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_color=30363d" height="150"/>
-</a>
-
-<br/><br/>
-
-<!-- Live shields pulled from GitHub API — always work for orgs -->
-
-![GitHub Org Stars](https://img.shields.io/github/stars/QuantumLogicsLabs?style=for-the-badge&logo=github&label=Total%20Stars&color=00d4ff&labelColor=0d1117)
-![GitHub followers](https://img.shields.io/github/followers/QuantumLogicsLabs?style=for-the-badge&logo=github&label=Followers&color=ff6b35&labelColor=0d1117)
-![Quantum Language Version](https://img.shields.io/github/v/release/QuantumLogicsLabs/Quantum-Language?style=for-the-badge&logo=github&label=Latest%20Release&color=brightgreen&labelColor=0d1117)
-![Open Issues](https://img.shields.io/github/issues/QuantumLogicsLabs/Quantum-Language?style=for-the-badge&logo=github&label=Open%20Issues&color=yellow&labelColor=0d1117)
+[![Website](https://img.shields.io/badge/Website-quantumlogicslimited.com-blue?style=flat-square)](https://quantumlogicslimited.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-QuantumLogics-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/company/quantumlogicslimited)
+[![Email](https://img.shields.io/badge/Email-quantumlogicslimited%40gmail.com-red?style=flat-square&logo=gmail)](mailto:quantumlogicslimited@gmail.com)
 
 </div>
 
 ---
 
+## 👋 Who We Are
+
+**QuantumLogics** is a software house dedicated to crafting high-quality software solutions while actively contributing to the open-source community. We believe great software is built at the intersection of precision, performance, and creativity — and we put that philosophy into everything we ship.
+
+From building production-grade commercial applications to designing programming languages from the ground up, our team works on projects that push what's possible.
+
+---
+
 ## 🚀 Open Source Projects
 
-### 🔵 [Quantum Language](https://github.com/QuantumLogicsLabs/Quantum-Language) — `v2.0.0`
+### 🔵 [Quantum Language](https://github.com/QuantumLogicsLabs/Quantum-Language)
 
-> **Dynamically-typed, cybersecurity-ready scripting language** — bytecode compiler + custom VM, written in C++17
+> _A multi-paradigm scripting language with a bytecode compiler and VM — written in C++17_
 
-[![C++17](https://img.shields.io/badge/C%2B%2B17-blue?style=flat-square&logo=cplusplus)](https://isocpp.org/)
-[![MIT License](https://img.shields.io/badge/MIT-purple?style=flat-square)](https://github.com/QuantumLogicsLabs/Quantum-Language/blob/main/LICENSE)
-[![.sa files](https://img.shields.io/badge/scripts-.sa-orange?style=flat-square)](https://github.com/QuantumLogicsLabs/Quantum-Language)
+[![Language](https://img.shields.io/badge/language-C%2B%2B17-blue?style=flat-square&logo=cplusplus)](https://isocpp.org/)
+[![Version](https://img.shields.io/badge/version-2.0.0-brightgreen?style=flat-square)](https://github.com/QuantumLogicsLabs/Quantum-Language/releases)
+[![License](https://img.shields.io/badge/license-MIT-purple?style=flat-square)](https://github.com/QuantumLogicsLabs/Quantum-Language/blob/main/LICENSE)
+[![Extension](https://img.shields.io/badge/scripts-.sa-orange?style=flat-square)](https://github.com/QuantumLogicsLabs/Quantum-Language)
 
-| Feature                | Details                                                               |
-| ---------------------- | --------------------------------------------------------------------- |
-| 🔀 **Multi-syntax**    | Python, JS, and C/C++ style — mix freely in the same file             |
-| 🔒 **Crypto built-in** | SHA256, AES-128, HMAC, base64, XOR, entropy analysis, network helpers |
-| ⚡ **Bytecode VM**     | Compiles to compact bytecode, runs on a custom register-stack VM      |
-| 📦 **Self-contained**  | `quantum file.sa` → standalone `.exe`, zero runtime deps              |
-| 🔁 **REPL**            | `qrun` interactive mode with persistent VM state                      |
-| 🧪 **Test runner**     | Crash-guarded batch test suite via `--test` flag                      |
+Quantum is a **dynamically-typed, cybersecurity-ready scripting language** that compiles `.sa` source files to bytecode and runs them on a custom register-stack virtual machine. What makes it unique is its **multi-syntax design** — Python-style, JavaScript-style, and C/C++-style syntax are all valid in the same file.
+
+**Highlights:**
+
+- 🔀 **Multi-syntax** — write code the way you think, mix styles freely
+- 🔒 **Cybersecurity-ready** — built-in SHA256/SHA1/MD5, AES-128, HMAC, base64, XOR, entropy analysis, and network helpers
+- ⚡ **Bytecode VM** — compiles to a compact bytecode format and runs on a custom stack-based VM
+- 📦 **Self-contained executables** — `quantum file.sa` produces a standalone `.exe` with no runtime dependencies
+- 🔁 **REPL** — interactive mode via `qrun` with persistent VM state across lines
+- 🧪 **Batch test runner** — crash-guarded test suite with `--test` flag
+
+**Run your first Quantum program:**
 
 ```bash
-quantum hello.sa   # compile → .exe → launch
-qrun    hello.sa   # interpret directly, no disk writes
-qrun               # interactive REPL
+quantum hello.sa     # compiles → hello.exe, then launches it
+qrun    hello.sa     # interprets directly, nothing written to disk
+qrun                 # starts interactive REPL
 ```
+
+**Example — multi-syntax in one file:**
 
 ```python
 # Python-style
@@ -87,7 +71,7 @@ def greet(name): return "Hello, " + name
 # JavaScript-style
 function square(n) { return n * n }
 
-# Arrow syntax
+# Arrow
 double = (x) => x * 2
 
 print(greet("World"), square(5), double(7))
@@ -97,62 +81,65 @@ print(greet("World"), square(5), double(7))
 
 ---
 
-### 🟣 Quantum — VS Code Extension
+### 🟣 Quantum Language — VS Code Extension
 
-> First-class `.sa` file support: syntax highlighting, snippets, and language-aware tooling
-> Available as a submodule in the main language repo.
+> _First-class editor support for the Quantum language_
+
+The official **Visual Studio Code extension** for Quantum brings a polished development experience to `.sa` files, including syntax highlighting, code snippets, and language-aware tooling — available as a submodule alongside the main language repository.
 
 ---
 
 ### 📖 [Quran Website](https://github.com/QuantumLogicsLabs/Quran-Website)
 
-> Clean, fast Quran web app — search, read, and explore verses in Arabic with English translations.
-> Includes a **complete JSON dataset** for developers building Quran-related tools.
+> _A clean, fast Quran web app_
+
+A lightweight web application where users can search, read, and explore Quranic verses in Arabic with English translations. The project also provides a complete JSON dataset for developers building Quran-related tools or offline applications.
 
 ---
 
 ### 🧪 [Quantum Failed Tests](https://github.com/QuantumLogicsLabs/QuantumFailedTests)
 
-> Living collection of edge cases that make Quantum stronger.
-> **Breaking things is welcome** — every failure hardens the language.
+> _A living collection of edge cases that make Quantum stronger_
+
+A curated repository of failed test cases that expose edge cases, break assumptions, and drive the Quantum language toward more resilient and battle-tested code. Contributions that break things are welcomed.
 
 ---
 
 ## 🛠️ What We Build
 
-```
-Custom Languages & Compilers   ████████████████████  Lexer → Bytecode → VM
-Developer Tooling              ██████████████████░░  IDE Extensions, CLIs, LSPs
-Web Applications               █████████████████░░░  Fast, accessible, crafted
-Cybersecurity Tooling          ████████████████░░░░  Built into stdlib by default
-Commercial Software            ███████████████░░░░░  Bespoke client solutions
-```
+At QuantumLogics, our work spans:
+
+- **Custom programming languages & compilers** — from lexer to bytecode VM
+- **Developer tooling** — IDE extensions, CLI tools, and language servers
+- **Web applications** — fast, accessible, and well-crafted
+- **Cybersecurity tooling** — built into our language's standard library by default
+- **Commercial software** — bespoke solutions for clients across industries
 
 ---
 
 ## 🤝 Contributing
 
-We welcome contributions across all repositories — bug fixes, features, tests, or docs.
+We welcome contributions across all our open-source repositories. Whether you're fixing a bug, adding a language feature, writing tests, or improving documentation — every bit counts.
 
-[![Contributing Guide](https://img.shields.io/badge/Contributing%20Guide-Read%20It-00d4ff?style=for-the-badge)](https://github.com/QuantumLogicsLabs/Quantum-Language/blob/main/docs/CONTRIBUTING.md)
-[![Open Issues](https://img.shields.io/badge/Issues-Open-ff6b35?style=for-the-badge&logo=github)](https://github.com/QuantumLogicsLabs/Quantum-Language/issues)
-[![Pull Requests](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github)](https://github.com/QuantumLogicsLabs/Quantum-Language/pulls)
+- Read the [Contributing Guide](https://github.com/QuantumLogicsLabs/Quantum-Language/blob/main/docs/CONTRIBUTING.md)
+- Check open [Issues](https://github.com/QuantumLogicsLabs/Quantum-Language/issues)
+- Submit a [Pull Request](https://github.com/QuantumLogicsLabs/Quantum-Language/pulls)
 
 ---
 
 ## 📬 Get In Touch
 
-|                 |                                                                                   |
+| Channel         | Link                                                                              |
 | --------------- | --------------------------------------------------------------------------------- |
 | 🌐 Website      | [quantumlogicslimited.com](https://quantumlogicslimited.com)                      |
 | 💼 LinkedIn     | [company/quantumlogicslimited](https://linkedin.com/company/quantumlogicslimited) |
 | 📧 Email        | [quantumlogicslimited@gmail.com](mailto:quantumlogicslimited@gmail.com)           |
-| 📖 Quantum Docs | [quantum.quantumlogicslimited.com](https://quantum.quantumlogicslimited.com)      |
+| 🔵 Quantum Docs | [quantum.quantumlogicslimited.com](https://quantum.quantumlogicslimited.com)      |
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=One%20commit%20at%20a%20time.&fontSize=20&fontColor=8b949e&fontAlignY=65&animation=fadeIn" width="100%"/>
+_Building software at the speed of thought — one commit at a time._
 
 </div>
