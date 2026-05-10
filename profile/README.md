@@ -11,6 +11,7 @@
 [![Website](https://img.shields.io/badge/Website-quantumlogicslimited.com-00d4ff?style=for-the-badge&logo=globe&logoColor=white)](https://quantumlogicslimited.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-QuantumLogics-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/quantumlogicslimited)
 [![Email](https://img.shields.io/badge/Email-Contact%20Us-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quantumlogicslimited@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kYQA3Bb2jr)
 
 </div>
 
